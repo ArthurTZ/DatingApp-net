@@ -5,7 +5,7 @@
 
 # dotenv files
 .env
-
+ssl
 # User-specific files
 *.rsuser
 *.suo
